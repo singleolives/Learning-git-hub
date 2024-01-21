@@ -1,3 +1,2 @@
-###
 a = "hello"
 print(a)
